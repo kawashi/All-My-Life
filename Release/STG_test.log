@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.cpp(437): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+main.cpp(439): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  コード生成が終了しました。
+  STG_test.vcxproj -> C:\Users\R\documents\visual studio 2010\Projects\STG_test\Release\STG_test.exe
